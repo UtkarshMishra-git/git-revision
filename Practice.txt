@@ -1,0 +1,24 @@
+Practice Completed !!
+git init
+git status
+git add .
+git commit -m 'message'
+git add remote origin 'path'
+git remote -v
+git push -u origin branch name
+git pull -u origin branch name
+git push
+git pull 
+
+branches
+git checkout
+git checkout -b branchname
+git branch branchname
+git branch -d branch name
+git push origin --delete branchname  : to delete remote branches
+
+git branch -a : to check all branches
+git merge branchname : to merge branches
+
+to remove cache
+git rm -r --cached .
